@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_Chap05_HelloWorld</string>
+    <string name="hello">Hello Android, I am Vu Tuan Chien</string>
+</resources>
